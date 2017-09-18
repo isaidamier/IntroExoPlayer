@@ -1,4 +1,4 @@
-package com.isaid.movingwater;
+package com.isaidamier.movingwater;
 
 import android.net.Uri;
 import android.os.Bundle;

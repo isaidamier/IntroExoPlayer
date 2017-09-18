@@ -1,4 +1,4 @@
-package com.isaid.movingwater;
+package com.isaidamier.movingwater;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
